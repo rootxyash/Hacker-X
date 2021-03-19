@@ -26,9 +26,9 @@ echo "-------------------------------------------------------" |lolcat
 trap ctrl_c INT
 ctrl_c() {
 clear
-echo  "Detected, Trying To Exit 🚪 ... "
+echo  "Detected, Trying To Exit 🚪 ... "|lolcat
 echo ""
-echo  "⚠️NOT FOR ILLEGEL USE⚠️"
+echo  "⚠️NOT FOR ILLEGEL USE⚠️"|lolcat
 sleep 1
 echo ""
 echo "2TIMEOWL" |lolcat
@@ -45,19 +45,19 @@ while [ $lagi -lt 15 ];
 do
 echo ""
 echo -e "\e[1;101m\e[1;97m01\e[1;101m\e[0m\e[1;96m TOOL-X\e[0m\n";
-echo -e "\e[1;101m\e[1;97m02\e[1;101m\e[0m\e[1;96m LUCIFER\e[0m\n";
-echo -e "\e[1;101m\e[1;97m03\e[1;101m\e[0m\e[1;96m WEEMAN\e[0m\n";
+echo -e "\e[1;101m\e[1;97m02\e[1;101m\e[0m\e[1;96m T2-FISHER\e[0m\n";
+echo -e "\e[1;101m\e[1;97m03\e[1;101m\e[0m\e[1;96m TBOMB\e[0m\n";
 echo -e "\e[1;101m\e[1;97m04\e[1;101m\e[0m\e[1;96m RED_HAWK\e[0m\n";
-echo -e "\e[1;101m\e[1;97m05\e[1;101m\e[0m\e[1;96m TECH-HACH\e[0m\n";
-echo -e "\e[1;101m\e[1;97m06\e[1;101m\e[0m\e[1;96m BRUTEFORCE_FACEBOOK\e[0m\n";
-echo -e "\e[1;101m\e[1;97m07\e[1;101m\e[0m\e[1;96m BOT_KONEN_FACEBOOK\e[0m\n";
-echo -e "\e[1;101m\e[1;97m08\e[1;101m\e[0m\e[1;96m TERMUX-BASIC-PACKAGE\e[0m\n";
-echo -e "\e[1;101m\e[1;97m09\e[1;101m\e[0m\e[1;96m OSIF\e[0m\n";
+echo -e "\e[1;101m\e[1;97m05\e[1;101m\e[0m\e[1;96m IP-TRACER\e[0m\n";
+echo -e "\e[1;101m\e[1;97m06\e[1;101m\e[0m\e[1;96m NMAP\e[0m\n";
+echo -e "\e[1;101m\e[1;97m07\e[1;101m\e[0m\e[1;96m PHONEINFOGA\e[0m\n";
+echo -e "\e[1;101m\e[1;97m08\e[1;101m\e[0m\e[1;96m METASPLOIT\e[0m\n";
+echo -e "\e[1;101m\e[1;97m09\e[1;101m\e[0m\e[1;96m TERMUX_BLACK[0m\n";
 echo -e "\e[1;101m\e[1;97m10\e[1;101m\e[0m\e[1;96m INSTAGRAM-BRUTEFORCE\e[0m\n";
 echo -e "\e[1;101m\e[1;97m11\e[1;101m\e[0m\e[1;96m FIRECRACK\e[0m\n";
 echo -e "\e[1;101m\e[1;97m12\e[1;101m\e[0m\e[1;96m EVIL-EYE\e[0m\n";
 echo -e "\e[1;101m\e[1;97m13\e[1;101m\e[0m\e[1;96m TECH-CRASH\e[0m\n";
-echo -e "\e[1;101m\e[1;97m14\e[1;101m\e[0m\e[1;96m TBomb\e[0m\n";
+echo -e "\e[1;101m\e[1;97m14\e[1;101m\e[0m\e[1;96m SHARK\e[0m\n";
 echo -e "\e[1;101m\e[1;97m15\e[1;101m\e[0m\e[1;96m SAYCHEESE\e[0m\n";
 echo -e "\e[1;101m\e[1;97m00\e[1;101m\e[0m\e[1;96m EXIT\e[0m\n";
 echo ""
@@ -79,17 +79,17 @@ sh install.aex
 ;;
 
 
-#LUCIFER
+#T2-FISHER
 
 
 2) clear
-toilet -f standard " Punker-Bhai " -F gay
-git clone https://github.com/rixon-cochi/Lucifer.git
-cd Lucifer
+toilet -f standard " 2TIMEOWL " -F gay
+git clone https://github.com/2Timeowl/T2-fisher.git
+cd T2-fisher
 chmod +x *
-bash setup.sh
+bash setup
 ls
-bash instacracker.sh
+bash T2-fisher
 
 
 ;;

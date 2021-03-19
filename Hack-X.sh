@@ -111,7 +111,7 @@ python2 weeman.py
 #RED_HAWK
 
 
-0
+
 4) clear
 toilet -f standard " Punker-Bhai " -F gay
 git clone https://github.com/Tuhinshubhra/RED_HAWK

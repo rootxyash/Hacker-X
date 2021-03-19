@@ -28,14 +28,14 @@ ctrl_c() {
 clear
 echo  "Detected, Trying To Exit 🚪 ... "|lolcat
 echo ""
-echo  "⚠️NOT FOR ILLEGEL USE⚠️"|lolcat
+echo         "⚠️NOT FOR ILLEGEL USE⚠️"|lolcat
 sleep 1
 echo ""
-echo "2TIMEOWL" |lolcat
+echo              "2TIMEOWL" |lolcat
 echo ""
-echo "BYE BYE 👋👋..." |lolcat
+echo            "BYE BYE 👋👋..." |lolcat
 echo ""
-echo "COME BACK 🔜" |lolcat
+echo              "COME BACK 🔜" |lolcat
 sleep 1
 exit
 }

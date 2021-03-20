@@ -44,22 +44,58 @@ lagi=01
 while [ $lagi -lt 15 ];
 do
 echo ""
-echo -e "\e[1;101m\e[1;97m01\e[1;101m\e[0m\e[1;96m TOOL-X\e[0m\n";
-echo -e "\e[1;101m\e[1;97m02\e[1;101m\e[0m\e[1;96m T2-FISHER\e[0m\n";
-echo -e "\e[1;101m\e[1;97m03\e[1;101m\e[0m\e[1;96m TBOMB\e[0m\n";
-echo -e "\e[1;101m\e[1;97m04\e[1;101m\e[0m\e[1;96m RED_HAWK\e[0m\n";
-echo -e "\e[1;101m\e[1;97m05\e[1;101m\e[0m\e[1;96m IP-TRACER\e[0m\n";
-echo -e "\e[1;101m\e[1;97m06\e[1;101m\e[0m\e[1;96m NMAP\e[0m\n";
-echo -e "\e[1;101m\e[1;97m07\e[1;101m\e[0m\e[1;96m PHONEINFOGA\e[0m\n";
-echo -e "\e[1;101m\e[1;97m08\e[1;101m\e[0m\e[1;96m METASPLOIT\e[0m\n";
-echo -e "\e[1;101m\e[1;97m09\e[1;101m\e[0m\e[1;96m TERMUX_BLACK[0m\n";
-echo -e "\e[1;101m\e[1;97m10\e[1;101m\e[0m\e[1;96m INSTAGRAM-BRUTEFORCE\e[0m\n";
-echo -e "\e[1;101m\e[1;97m11\e[1;101m\e[0m\e[1;96m FIRECRACK\e[0m\n";
-echo -e "\e[1;101m\e[1;97m12\e[1;101m\e[0m\e[1;96m EVIL-EYE\e[0m\n";
-echo -e "\e[1;101m\e[1;97m13\e[1;101m\e[0m\e[1;96m TECH-CRASH\e[0m\n";
-echo -e "\e[1;101m\e[1;97m14\e[1;101m\e[0m\e[1;96m SHARK\e[0m\n";
-echo -e "\e[1;101m\e[1;97m15\e[1;101m\e[0m\e[1;96m SAYCHEESE\e[0m\n";
-echo -e "\e[1;101m\e[1;97m00\e[1;101m\e[0m\e[1;96m EXIT\e[0m\n";
+echo -e "\e[1;101m\e[1;97m01\e[1;101m\e[0m\e[1;96m TOOL-X\e[0m\n";      echo -e "\e[1;101m\e[1;97m01\e[1;101m\e[0m\e[1;96m TOOL-X\e[0m\n";
+echo -e "\e[1;101m\e[1;97m02\e[1;101m\e[0m\e[1;96m T2-FISHER\e[0m\n";   echo -e "\e[1;101m\e[1;97m01\e[1;101m\e[0m\e[1;96m TOOL-X\e[0m\n";
+echo -e "\e[1;101m\e[1;97m03\e[1;101m\e[0m\e[1;96m TBOMB\e[0m\n";       echo -e "\e[1;101m\e[1;97m01\e[1;101m\e[0m\e[1;96m TOOL-X\e[0m\n";
+echo -e "\e[1;101m\e[1;97m04\e[1;101m\e[0m\e[1;96m RED_HAWK\e[0m\n";    echo -e "\e[1;101m\e[1;97m01\e[1;101m\e[0m\e[1;96m TOOL-X\e[0m\n";
+echo -e "\e[1;101m\e[1;97m05\e[1;101m\e[0m\e[1;96m IP-TRACER\e[0m\n";   echo -e "\e[1;101m\e[1;97m01\e[1;101m\e[0m\e[1;96m TOOL-X\e[0m\n";
+echo -e "\e[1;101m\e[1;97m06\e[1;101m\e[0m\e[1;96m NMAP\e[0m\n";        echo -e "\e[1;101m\e[1;97m01\e[1;101m\e[0m\e[1;96m TOOL-X\e[0m\n";
+echo -e "\e[1;101m\e[1;97m07\e[1;101m\e[0m\e[1;96m PHONEINFOGA\e[0m\n"; echo -e "\e[1;101m\e[1;97m01\e[1;101m\e[0m\e[1;96m TOOL-X\e[0m\n";
+echo -e "\e[1;101m\e[1;97m08\e[1;101m\e[0m\e[1;96m METASPLOIT\e[0m\n";  echo -e "\e[1;101m\e[1;97m01\e[1;101m\e[0m\e[1;96m TOOL-X\e[0m\n";
+echo -e "\e[1;101m\e[1;97m09\e[1;101m\e[0m\e[1;96m TERMUX_BLACK[0m\n";  echo -e "\e[1;101m\e[1;97m01\e[1;101m\e[0m\e[1;96m TOOL-X\e[0m\n";
+echo -e "\e[1;101m\e[1;97m10\e[1;101m\e[0m\e[1;96m INSTAGRAM-BRUTEFORCE\e[0m\n";  echo -e "\e[1;101m\e[1;97m01\e[1;101m\e[0m\e[1;96m TOOL-X\e[0m\n";
+echo -e "\e[1;101m\e[1;97m11\e[1;101m\e[0m\e[1;96m FIRECRACK\e[0m\n";   echo -e "\e[1;101m\e[1;97m01\e[1;101m\e[0m\e[1;96m TOOL-X\e[0m\n";
+echo -e "\e[1;101m\e[1;97m12\e[1;101m\e[0m\e[1;96m EVIL-EYE\e[0m\n";    echo -e "\e[1;101m\e[1;97m01\e[1;101m\e[0m\e[1;96m TOOL-X\e[0m\n";
+echo -e "\e[1;101m\e[1;97m13\e[1;101m\e[0m\e[1;96m TECH-CRASH\e[0m\n";  echo -e "\e[1;101m\e[1;97m01\e[1;101m\e[0m\e[1;96m TOOL-X\e[0m\n";
+echo -e "\e[1;101m\e[1;97m14\e[1;101m\e[0m\e[1;96m SHARK\e[0m\n";       echo -e "\e[1;101m\e[1;97m01\e[1;101m\e[0m\e[1;96m TOOL-X\e[0m\n";
+echo -e "\e[1;101m\e[1;97m15\e[1;101m\e[0m\e[1;96m SAYCHEESE\e[0m\n";   echo -e "\e[1;101m\e[1;97m01\e[1;101m\e[0m\e[1;96m TOOL-X\e[0m\n";
+echo -e "\e[1;101m\e[1;97m00\e[1;101m\e[0m\e[1;96m EXIT\e[0m\n";        echo -e "\e[1;101m\e[1;97m01\e[1;101m\e[0m\e[1;96m TOOL-X\e[0m\n";
+echo ""
+
+echo -e "\e[1;101m\e[1;97m01\e[1;101m\e[0m\e[1;96m TOOL-X\e[0m\n";      echo -e "\e[1;101m\e[1;97m01\e[1;101m\e[0m\e[1;96m TOOL-X\e[0m\n";
+echo -e "\e[1;101m\e[1;97m02\e[1;101m\e[0m\e[1;96m T2-FISHER\e[0m\n";   echo -e "\e[1;101m\e[1;97m01\e[1;101m\e[0m\e[1;96m TOOL-X\e[0m\n";
+echo -e "\e[1;101m\e[1;97m03\e[1;101m\e[0m\e[1;96m TBOMB\e[0m\n";       echo -e "\e[1;101m\e[1;97m01\e[1;101m\e[0m\e[1;96m TOOL-X\e[0m\n";
+echo -e "\e[1;101m\e[1;97m04\e[1;101m\e[0m\e[1;96m RED_HAWK\e[0m\n";    echo -e "\e[1;101m\e[1;97m01\e[1;101m\e[0m\e[1;96m TOOL-X\e[0m\n";
+echo -e "\e[1;101m\e[1;97m05\e[1;101m\e[0m\e[1;96m IP-TRACER\e[0m\n";   echo -e "\e[1;101m\e[1;97m01\e[1;101m\e[0m\e[1;96m TOOL-X\e[0m\n";
+echo -e "\e[1;101m\e[1;97m06\e[1;101m\e[0m\e[1;96m NMAP\e[0m\n";        echo -e "\e[1;101m\e[1;97m01\e[1;101m\e[0m\e[1;96m TOOL-X\e[0m\n";
+echo -e "\e[1;101m\e[1;97m07\e[1;101m\e[0m\e[1;96m PHONEINFOGA\e[0m\n"; echo -e "\e[1;101m\e[1;97m01\e[1;101m\e[0m\e[1;96m TOOL-X\e[0m\n";
+echo -e "\e[1;101m\e[1;97m08\e[1;101m\e[0m\e[1;96m METASPLOIT\e[0m\n";  echo -e "\e[1;101m\e[1;97m01\e[1;101m\e[0m\e[1;96m TOOL-X\e[0m\n";
+echo -e "\e[1;101m\e[1;97m09\e[1;101m\e[0m\e[1;96m TERMUX_BLACK[0m\n";  echo -e "\e[1;101m\e[1;97m01\e[1;101m\e[0m\e[1;96m TOOL-X\e[0m\n";
+echo -e "\e[1;101m\e[1;97m10\e[1;101m\e[0m\e[1;96m INSTAGRAM-BRUTEFORCE\e[0m\n";  echo -e "\e[1;101m\e[1;97m01\e[1;101m\e[0m\e[1;96m TOOL-X\e[0m\n";
+echo -e "\e[1;101m\e[1;97m11\e[1;101m\e[0m\e[1;96m FIRECRACK\e[0m\n";   echo -e "\e[1;101m\e[1;97m01\e[1;101m\e[0m\e[1;96m TOOL-X\e[0m\n";
+echo -e "\e[1;101m\e[1;97m12\e[1;101m\e[0m\e[1;96m EVIL-EYE\e[0m\n";    echo -e "\e[1;101m\e[1;97m01\e[1;101m\e[0m\e[1;96m TOOL-X\e[0m\n";
+echo -e "\e[1;101m\e[1;97m13\e[1;101m\e[0m\e[1;96m TECH-CRASH\e[0m\n";  echo -e "\e[1;101m\e[1;97m01\e[1;101m\e[0m\e[1;96m TOOL-X\e[0m\n";
+echo -e "\e[1;101m\e[1;97m14\e[1;101m\e[0m\e[1;96m SHARK\e[0m\n";       echo -e "\e[1;101m\e[1;97m01\e[1;101m\e[0m\e[1;96m TOOL-X\e[0m\n";
+echo -e "\e[1;101m\e[1;97m15\e[1;101m\e[0m\e[1;96m SAYCHEESE\e[0m\n";   echo -e "\e[1;101m\e[1;97m01\e[1;101m\e[0m\e[1;96m TOOL-X\e[0m\n";
+echo -e "\e[1;101m\e[1;97m00\e[1;101m\e[0m\e[1;96m EXIT\e[0m\n";        echo -e "\e[1;101m\e[1;97m01\e[1;101m\e[0m\e[1;96m TOOL-X\e[0m\n";
+echo ""
+
+echo -e "\e[1;101m\e[1;97m01\e[1;101m\e[0m\e[1;96m TOOL-X\e[0m\n";      echo -e "\e[1;101m\e[1;97m01\e[1;101m\e[0m\e[1;96m TOOL-X\e[0m\n";
+echo -e "\e[1;101m\e[1;97m02\e[1;101m\e[0m\e[1;96m T2-FISHER\e[0m\n";   echo -e "\e[1;101m\e[1;97m01\e[1;101m\e[0m\e[1;96m TOOL-X\e[0m\n";
+echo -e "\e[1;101m\e[1;97m03\e[1;101m\e[0m\e[1;96m TBOMB\e[0m\n";       echo -e "\e[1;101m\e[1;97m01\e[1;101m\e[0m\e[1;96m TOOL-X\e[0m\n";
+echo -e "\e[1;101m\e[1;97m04\e[1;101m\e[0m\e[1;96m RED_HAWK\e[0m\n";    echo -e "\e[1;101m\e[1;97m01\e[1;101m\e[0m\e[1;96m TOOL-X\e[0m\n";
+echo -e "\e[1;101m\e[1;97m05\e[1;101m\e[0m\e[1;96m IP-TRACER\e[0m\n";   echo -e "\e[1;101m\e[1;97m01\e[1;101m\e[0m\e[1;96m TOOL-X\e[0m\n";
+echo -e "\e[1;101m\e[1;97m06\e[1;101m\e[0m\e[1;96m NMAP\e[0m\n";        echo -e "\e[1;101m\e[1;97m01\e[1;101m\e[0m\e[1;96m TOOL-X\e[0m\n";
+echo -e "\e[1;101m\e[1;97m07\e[1;101m\e[0m\e[1;96m PHONEINFOGA\e[0m\n"; echo -e "\e[1;101m\e[1;97m01\e[1;101m\e[0m\e[1;96m TOOL-X\e[0m\n";
+echo -e "\e[1;101m\e[1;97m08\e[1;101m\e[0m\e[1;96m METASPLOIT\e[0m\n";  echo -e "\e[1;101m\e[1;97m01\e[1;101m\e[0m\e[1;96m TOOL-X\e[0m\n";
+echo -e "\e[1;101m\e[1;97m09\e[1;101m\e[0m\e[1;96m TERMUX_BLACK[0m\n";  echo -e "\e[1;101m\e[1;97m01\e[1;101m\e[0m\e[1;96m TOOL-X\e[0m\n";
+echo -e "\e[1;101m\e[1;97m10\e[1;101m\e[0m\e[1;96m INSTAGRAM-BRUTEFORCE\e[0m\n";  echo -e "\e[1;101m\e[1;97m01\e[1;101m\e[0m\e[1;96m TOOL-X\e[0m\n";
+echo -e "\e[1;101m\e[1;97m11\e[1;101m\e[0m\e[1;96m FIRECRACK\e[0m\n";   echo -e "\e[1;101m\e[1;97m01\e[1;101m\e[0m\e[1;96m TOOL-X\e[0m\n";
+echo -e "\e[1;101m\e[1;97m12\e[1;101m\e[0m\e[1;96m EVIL-EYE\e[0m\n";    echo -e "\e[1;101m\e[1;97m01\e[1;101m\e[0m\e[1;96m TOOL-X\e[0m\n";
+echo -e "\e[1;101m\e[1;97m13\e[1;101m\e[0m\e[1;96m TECH-CRASH\e[0m\n";  echo -e "\e[1;101m\e[1;97m01\e[1;101m\e[0m\e[1;96m TOOL-X\e[0m\n";
+echo -e "\e[1;101m\e[1;97m14\e[1;101m\e[0m\e[1;96m SHARK\e[0m\n";       echo -e "\e[1;101m\e[1;97m01\e[1;101m\e[0m\e[1;96m TOOL-X\e[0m\n";
+echo -e "\e[1;101m\e[1;97m15\e[1;101m\e[0m\e[1;96m SAYCHEESE\e[0m\n";   echo -e "\e[1;101m\e[1;97m01\e[1;101m\e[0m\e[1;96m TOOL-X\e[0m\n";
+echo -e "\e[1;101m\e[1;97m00\e[1;101m\e[0m\e[1;96m EXIT\e[0m\n";        echo -e "\e[1;101m\e[1;97m01\e[1;101m\e[0m\e[1;96m TOOL-X\e[0m\n";
 echo ""
 echo  "╭─2TIMEOWL" |lolcat
 read -p "╰──►" pil;

@@ -84,7 +84,7 @@ read -p "╰──►" pil;
 
 case $pil in
 1) clear
-toilet -f standard " IRI70 " -F gay
+toilet -f standard " TECHNOCYBER " -F gay
 git clone https://github.com/Rajkumrdusad/Tool-X
 cd Tool-X
 sh install.aex
@@ -97,7 +97,7 @@ sh install.aex
 
 
 2) clear
-toilet -f standard " 2TIMEOWL " -F gay
+toilet -f standard " TECHNOCYBER " -F gay
 git clone https://github.com/2Timeowl/T2-fisher.git
 cd T2-fisher
 chmod +x *
@@ -109,113 +109,107 @@ bash T2-fisher
 ;;
 
 
-#WEEMAN
+#METASPLOIT
 
 
 3) clear
-toilet -f standard " Punker-Bhai " -F gay
-git clone https://github.com/evait-security/weeman.git
-cd weeman
-python2 weeman.py
+toilet -f standard " TECHNOCYBER " -F gay
+git clone https://github.com/Punker-Bhai/blacky-console
+cd blacky-console
+bash console.sh
 
 
 ;;
 
 
-#RED_HAWK
+#NEXPHISHER
 
 
 
 4) clear
-toilet -f standard " Punker-Bhai " -F gay
-git clone https://github.com/Tuhinshubhra/RED_HAWK
-cd RED_HAWK
-php rhawk.php
+toilet -f standard " TECHNOCYBER " -F gay
+git clone git://github.com/htr-tech/nexphisher.git
+cd nexphisher
+bash setup
+bash nexphisher
 
 
 ;;
 
 
-#TECH-COCHI
+#IP-TRACER
 
 
 5) clear
-toilet -f standard " Punker-Bhai " -F gay
-git clone https://github.com/rixon-cochi/tech-hack.git
-cd tech-hack
-chmod +x *
-unzip sites.zip
-bash cracker.sh
-
+toilet -f standard " TECHNOCYBER " -F gay
+git clone https://github.com/Punker-Bhai/tracer-ip.git
+cd tracer-ip
+bash ip.sh
 
 ;;
 
 
-#BRUTEFORCE_FACEBOOK
+#PHONEINFOGA
 
 
 6) clear
-toilet -f standard " Punker-Bhai " -F gay
-git clone https://github.com/IqbalzNoobs/fb-brute
-cd fb-brute
-python2 brute.py
+toilet -f standard " TECHNOCYBER " -F gay
+pkg install wget
+Wget https://raw.githubusercontent.com/2Timeowl/T2-Osint/master/T2-Osint.sh
+bash T2-Osint.sh
 
 
 ;;
 
 
-#BOT_KONEN_FACEBOOK
+#INFECT
 
 
 7) clear
-toilet -f standard " Punker-Bhai " -F gay
-pip2 install mechanize
-git clone https://github.com/Senitopeng/Botkomena.git
-cd Botkomena
-python2 botkomena.py
+toilet -f standard " TECHNOCYBER " -F gay
+pip install lolcat
+git clone https://github.com/noob-hackers/infect
+cd $HOME
+cd infect
+bash infect.sh
 
 
 ;;
 
 
-#TERMUX-BASIC-PACKAGE
+#SQLMAP
 
 
 8) clear
-toilet -f standard " Punker-Bhai " -F gay
-https://github.com/rixon-cochi/basic-pkg
-cd basic-pkg
-bash basic.sh
-
+toilet -f standard " TECHNOCYBER " -F gay
+git clone https://github.com/sqlmapproject/sqlmap
+cd sqlmap
+chmod +x sqlmap.py
+python2 sqlmap.py
 
 ;;
 
 
-#OSIF
+#MR.PHISH
 
 
 9) clear
-toilet -f standard " Punker-Bhai " -F gay
-git clone https://github.com/ciku370/OSIF
-cd OSIF
-pip2 install -r requirements.txt
-python2 osif.py
-
+toilet -f standard " TECHNOCYBER " -F gay
+git clone https://github.com/noob-hackers/mrphish
+cd $HOME
+cd mrphish
+bash setup
+bash mrphish
 
 ;;
 
 
-#INSTAGRAM-BRUTEFORCE
+#NMAP
 
 
 10) clear
-toilet -f standard " Punker-Bhai " -F gay
-git clone https://github.com/linuxkukeren/instagram
-pip install requests
-pip install -r requirement.txt
-pip2 install -r requirement.txt
-python2 linuxkukerenhacking.py
-
+toilet -f standard " TECHNOCYBER " -F gay
+pkg install nmap
 
 ;;
 

@@ -168,6 +168,11 @@ bash T2-Osint.sh
 
 7) clear
 toilet -f standard " TECHNOCYBER " -F gay
+apt-get update -y
+apt-get upgrade -y
+pkg install python -y
+pkg install python2 -y
+pkg install git -y
 pip install lolcat
 git clone https://github.com/noob-hackers/infect
 cd $HOME

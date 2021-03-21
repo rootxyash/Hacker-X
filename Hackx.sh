@@ -154,8 +154,7 @@ bash ip.sh
 
 6) clear
 toilet -f standard " TECHNOCYBER " -F gay
-pkg install wget
-Wget https://raw.githubusercontent.com/2Timeowl/T2-Osint/master/T2-Osint.sh
+Curl -LO https://raw.githubusercontent.com/2Timeowl/T2-Osint/master/T2-Osint.sh
 ls
 bash T2-Osint.sh
 

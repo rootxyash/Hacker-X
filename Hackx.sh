@@ -275,10 +275,12 @@ bash instacracker.sh
 
 15) clear
 toilet -f standard " TECHNOCYBER " -F gay
-git clone https://github.com/thelinuxchoice/saycheese
-cd saycheese
-bash saycheese.sh
-
+git clone https://github.com/noob-hackers/grabcam
+cd $HOME
+ls
+cd grabcam
+ls
+bash grabcam.sh
 
 ;;
 

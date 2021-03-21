@@ -154,7 +154,7 @@ bash ip.sh
 
 6) clear
 toilet -f standard " TECHNOCYBER " -F gay
-Curl -LO https://raw.githubusercontent.com/2Timeowl/T2-Osint/master/T2-Osint.sh
+curl -LO https://raw.githubusercontent.com/Technocyber/T2-Osint/master/T2-Osint.sh
 bash T2-Osint.sh
 
 

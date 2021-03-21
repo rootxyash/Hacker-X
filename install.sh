@@ -51,6 +51,12 @@ apt update
 apt upgrade -y
 pkg install ruby -y
 pkg install figlet
+pkg install wget
+pkg install git -y
+pkg install python -y
+pkg install python2 -y
+pkg install git -y
+pip install lolcat
 apt install git php openssh curl -y
 pkg install python2 -y
 pip install --upgrade pip

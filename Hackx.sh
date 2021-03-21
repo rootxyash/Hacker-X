@@ -58,7 +58,7 @@ printf " \e[1;31m[\e[0m\e[1;77m11\e[0m\e[1;31m]\e[0m\e[0m\e[96m T-BOMB          
 printf " \e[1;31m[\e[0m\e[1;77m12\e[0m\e[1;31m]\e[0m\e[0m\e[96m Termuxarch        \e[0m\e[1;31m[\e[0m\e[1;77m42\e[0m\e[1;31m]\e[0m\e[0m\e[96m Pinterest             \e[1;31m[\e[0m\e[1;77m01\e[0m\e[1;31m]\e[0m\e[0m\e[96m Tool-X\e[0m\n"
 printf " \e[1;31m[\e[0m\e[1;77m13\e[0m\e[1;31m]\e[0m\e[0m\e[96m Lazybee           \e[0m\e[1;31m[\e[0m\e[1;77m43\e[0m\e[1;31m]\e[0m\e[0m\e[96m Snapchat              \e[1;31m[\e[0m\e[1;77m01\e[0m\e[1;31m]\e[0m\e[0m\e[96m Tool-X\e[0m\n"
 printf " \e[1;31m[\e[0m\e[1;77m14\e[0m\e[1;31m]\e[0m\e[0m\e[96m Lucifer           \e[0m\e[1;31m[\e[0m\e[1;77m44\e[0m\e[1;31m]\e[0m\e[0m\e[96m Linkedin              \e[1;31m[\e[0m\e[1;77m01\e[0m\e[1;31m]\e[0m\e[0m\e[96m Tool-X\e[0m\n"    
-printf " \e[1;31m[\e[0m\e[1;77m15\e[0m\e[1;31m]\e[0m\e[0m\e[96m Saycheese         \e[0m\e[1;31m[\e[0m\e[1;77m45\e[0m\e[1;31m]\e[0m\e[0m\e[96m Ebay                  \e[1;31m[\e[0m\e[1;77m01\e[0m\e[1;31m]\e[0m\e[0m\e[96m Tool-X\e[0m\n"    
+printf " \e[1;31m[\e[0m\e[1;77m15\e[0m\e[1;31m]\e[0m\e[0m\e[96m Grabcam           \e[0m\e[1;31m[\e[0m\e[1;77m45\e[0m\e[1;31m]\e[0m\e[0m\e[96m Ebay                  \e[1;31m[\e[0m\e[1;77m01\e[0m\e[1;31m]\e[0m\e[0m\e[96m Tool-X\e[0m\n"    
 printf " \e[1;31m[\e[0m\e[1;77m16\e[0m\e[1;31m]\e[0m\e[0m\e[96m T_Load            \e[0m\e[1;31m[\e[0m\e[1;77m46\e[0m\e[1;31m]\e[0m\e[0m\e[96m Dropbox               \e[1;31m[\e[0m\e[1;77m01\e[0m\e[1;31m]\e[0m\e[0m\e[96m Tool-X\e[0m\n"
 printf " \e[1;31m[\e[0m\e[1;77m17\e[0m\e[1;31m]\e[0m\e[0m\e[96m Nikto             \e[0m\e[1;31m[\e[0m\e[1;77m47\e[0m\e[1;31m]\e[0m\e[0m\e[96m Protonmail            \e[1;31m[\e[0m\e[1;77m01\e[0m\e[1;31m]\e[0m\e[0m\e[96m Tool-X\e[0m\n"          
 printf " \e[1;31m[\e[0m\e[1;77m18\e[0m\e[1;31m]\e[0m\e[0m\e[96m Seeker            \e[0m\e[1;31m[\e[0m\e[1;77m48\e[0m\e[1;31m]\e[0m\e[0m\e[96m Spotify               \e[1;31m[\e[0m\e[1;77m01\e[0m\e[1;31m]\e[0m\e[0m\e[96m Tool-X\e[0m\n"                               
@@ -284,6 +284,110 @@ bash grabcam.sh
 
 ;;
 
+#T-LOAD
+toilet -f standard " TECHNOCYBER " -F gay
+git clone https://github.com/noob-hackers/T-LOAD
+cd $HOME
+cd T-LOAD
+bash t-load.sh
+
+;;
+
+#NIKTO
+toilet -f standard " TECHNOCYBER " -F gay
+git clone https://github.com/sullo/nikto
+cd nikto/program
+
+;;
+
+#T-LOAD
+toilet -f standard " TECHNOCYBER " -F gay
+
+;;
+
+#T-LOAD
+toilet -f standard " TECHNOCYBER " -F gay
+
+;;
+
+#T-LOAD
+toilet -f standard " TECHNOCYBER " -F gay
+
+;;
+
+#T-LOAD
+toilet -f standard " TECHNOCYBER " -F gay
+
+;;
+
+#T-LOAD
+toilet -f standard " TECHNOCYBER " -F gay
+
+;;
+
+
+#T-LOAD
+toilet -f standard " TECHNOCYBER " -F gay
+
+;;
+
+#T-LOAD
+toilet -f standard " TECHNOCYBER " -F gay
+
+;;
+
+#T-LOAD
+toilet -f standard " TECHNOCYBER " -F gay
+
+;;
+
+#T-LOAD
+toilet -f standard " TECHNOCYBER " -F gay
+
+;;
+
+#T-LOAD
+toilet -f standard " TECHNOCYBER " -F gay
+
+;;
+
+#T-LOAD
+toilet -f standard " TECHNOCYBER " -F gay
+
+;;
+
+#T-LOAD
+toilet -f standard " TECHNOCYBER " -F gay
+
+;;
+
+#T-LOAD
+toilet -f standard " TECHNOCYBER " -F gay
+
+;;
+
+#T-LOAD
+toilet -f standard " TECHNOCYBER " -F gay
+
+;;
+
+#T-LOAD
+toilet -f standard " TECHNOCYBER " -F gay
+
+;;
+
+#T-LOAD
+toilet -f standard " TECHNOCYBER " -F gay
+
+;;
+
+#T-LOAD
+toilet -f standard " TECHNOCYBER " -F gay
+
+;;
+
+#T-LOAD
+toilet -f standard " TECHNOCYBER " -F gay
 
 00) echo "Coded By: TECHNOCYBER" |lolcat
 exit

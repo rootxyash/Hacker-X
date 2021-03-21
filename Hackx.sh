@@ -54,11 +54,11 @@ printf " \e[1;31m[\e[0m\e[1;77m07\e[0m\e[1;31m]\e[0m\e[0m\e[96m Infect          
 printf " \e[1;31m[\e[0m\e[1;77m08\e[0m\e[1;31m]\e[0m\e[0m\e[96m SQL-Map           \e[0m\e[1;31m[\e[0m\e[1;77m38\e[0m\e[1;31m]\e[0m\e[0m\e[96m WEEMAN                \e[1;31m[\e[0m\e[1;77m01\e[0m\e[1;31m]\e[0m\e[0m\e[96m Tool-X\e[0m\n"                       
 printf " \e[1;31m[\e[0m\e[1;77m09\e[0m\e[1;31m]\e[0m\e[0m\e[96m Mr-Phish          \e[0m\e[1;31m[\e[0m\e[1;77m39\e[0m\e[1;31m]\e[0m\e[0m\e[96m Termux-Basic-Package  \e[1;31m[\e[0m\e[1;77m01\e[0m\e[1;31m]\e[0m\e[0m\e[96m Tool-X\e[0m\n"                    
 printf " \e[1;31m[\e[0m\e[1;77m10\e[0m\e[1;31m]\e[0m\e[0m\e[96m NMAP              \e[0m\e[1;31m[\e[0m\e[1;77m40\e[0m\e[1;31m]\e[0m\e[0m\e[96m Kalimux               \e[1;31m[\e[0m\e[1;77m01\e[0m\e[1;31m]\e[0m\e[0m\e[96m Tool-X\e[0m\n"       
-printf " \e[1;31m[\e[0m\e[1;77m11\e[0m\e[1;31m]\e[0m\e[0m\e[96m D-Tech            \e[0m\e[1;31m[\e[0m\e[1;77m41\e[0m\e[1;31m]\e[0m\e[0m\e[96m Twitch                \e[1;31m[\e[0m\e[1;77m01\e[0m\e[1;31m]\e[0m\e[0m\e[96m Tool-X\e[0m\n"
+printf " \e[1;31m[\e[0m\e[1;77m11\e[0m\e[1;31m]\e[0m\e[0m\e[96m T-BOMB            \e[0m\e[1;31m[\e[0m\e[1;77m41\e[0m\e[1;31m]\e[0m\e[0m\e[96m Twitch                \e[1;31m[\e[0m\e[1;77m01\e[0m\e[1;31m]\e[0m\e[0m\e[96m Tool-X\e[0m\n"
 printf " \e[1;31m[\e[0m\e[1;77m12\e[0m\e[1;31m]\e[0m\e[0m\e[96m Termuxarch        \e[0m\e[1;31m[\e[0m\e[1;77m42\e[0m\e[1;31m]\e[0m\e[0m\e[96m Pinterest             \e[1;31m[\e[0m\e[1;77m01\e[0m\e[1;31m]\e[0m\e[0m\e[96m Tool-X\e[0m\n"
 printf " \e[1;31m[\e[0m\e[1;77m13\e[0m\e[1;31m]\e[0m\e[0m\e[96m Lazybee           \e[0m\e[1;31m[\e[0m\e[1;77m43\e[0m\e[1;31m]\e[0m\e[0m\e[96m Snapchat              \e[1;31m[\e[0m\e[1;77m01\e[0m\e[1;31m]\e[0m\e[0m\e[96m Tool-X\e[0m\n"
 printf " \e[1;31m[\e[0m\e[1;77m14\e[0m\e[1;31m]\e[0m\e[0m\e[96m Lucifer           \e[0m\e[1;31m[\e[0m\e[1;77m44\e[0m\e[1;31m]\e[0m\e[0m\e[96m Linkedin              \e[1;31m[\e[0m\e[1;77m01\e[0m\e[1;31m]\e[0m\e[0m\e[96m Tool-X\e[0m\n"    
-printf " \e[1;31m[\e[0m\e[1;77m15\e[0m\e[1;31m]\e[0m\e[0m\e[96m Oxidtools         \e[0m\e[1;31m[\e[0m\e[1;77m45\e[0m\e[1;31m]\e[0m\e[0m\e[96m Ebay                  \e[1;31m[\e[0m\e[1;77m01\e[0m\e[1;31m]\e[0m\e[0m\e[96m Tool-X\e[0m\n"    
+printf " \e[1;31m[\e[0m\e[1;77m15\e[0m\e[1;31m]\e[0m\e[0m\e[96m Saycheese         \e[0m\e[1;31m[\e[0m\e[1;77m45\e[0m\e[1;31m]\e[0m\e[0m\e[96m Ebay                  \e[1;31m[\e[0m\e[1;77m01\e[0m\e[1;31m]\e[0m\e[0m\e[96m Tool-X\e[0m\n"    
 printf " \e[1;31m[\e[0m\e[1;77m16\e[0m\e[1;31m]\e[0m\e[0m\e[96m T_Load            \e[0m\e[1;31m[\e[0m\e[1;77m46\e[0m\e[1;31m]\e[0m\e[0m\e[96m Dropbox               \e[1;31m[\e[0m\e[1;77m01\e[0m\e[1;31m]\e[0m\e[0m\e[96m Tool-X\e[0m\n"
 printf " \e[1;31m[\e[0m\e[1;77m17\e[0m\e[1;31m]\e[0m\e[0m\e[96m Nikto             \e[0m\e[1;31m[\e[0m\e[1;77m47\e[0m\e[1;31m]\e[0m\e[0m\e[96m Protonmail            \e[1;31m[\e[0m\e[1;77m01\e[0m\e[1;31m]\e[0m\e[0m\e[96m Tool-X\e[0m\n"          
 printf " \e[1;31m[\e[0m\e[1;77m18\e[0m\e[1;31m]\e[0m\e[0m\e[96m Seeker            \e[0m\e[1;31m[\e[0m\e[1;77m48\e[0m\e[1;31m]\e[0m\e[0m\e[96m Spotify               \e[1;31m[\e[0m\e[1;77m01\e[0m\e[1;31m]\e[0m\e[0m\e[96m Tool-X\e[0m\n"                               
@@ -214,53 +214,11 @@ pkg install nmap
 ;;
 
 
-#FIRECRACK
+#TBOMB
 
 
 11) clear
-toilet -f standard " Punker-Bhai " -F gay
-git clone https://github.com/Ranginang67/Firecrack
-cd Firecrack
-pip2 install -r requirements.txt
-python2 firecrack.py
-
-
-;;
-
-
-#EVIL-EYE
-
-
-12) clear
-toilet -f standard " Punker-Bhai " -F gay
-git clone https://github.com/rixon-cochi/Evil-eye
-Cd Evil-eye
-Chmod +x *
-bash requirement.sh
-bash Evil-l.sh
-
-
-;;
-
-
-#TECH-CRASH
-
-
-13) clear
-toilet -f standard " Punker-Bhai " -F gay
-git clone https://github.com/rixon-cochi/techcrash
-cd techcrash
-php Whatsbot.php
-
-
-;;
-
-
-#TBomb
-
-
-14) clear
-toilet -f standard " Punker-Bhai " -F gay
+toilet -f standard " TECHNOCYBER " -F gay
 git clone https://github.com/TheSpeedX/TBomb.git
 cd TBomb
 chmod +x TBomb.sh
@@ -270,11 +228,51 @@ chmod +x TBomb.sh
 ;;
 
 
+#TERMUXARCH
+
+
+12) clear
+toilet -f standard " TECHNOCYBER " -F gay
+git clone https://github.com/sdrausty/TermuxArch
+bash TermuxArch/setupTermuxArch.sh
+
+
+;;
+
+
+#LAZYBEE
+
+
+13) clear
+toilet -f standard " TECHNOCYBER " -F gay
+git clone https://github.com/noob-hackers/lazybee
+cd $HOME
+cd lazybee
+python2 lazybee.py
+
+;;
+
+
+#LUCIFER
+
+
+14) clear
+toilet -f standard " TECHNOCYBER " -F gay
+git clone https://github.com/rixon-cochi/Lucifer.git
+cd Lucifer
+chmod +x *
+bash setup.sh
+bash instacracker.sh
+
+
+;;
+
+
 #SAYCHEESE
 
 
 15) clear
-toilet -f standard " Punker-Bhai " -F gay
+toilet -f standard " TECHNOCYBER " -F gay
 git clone https://github.com/thelinuxchoice/saycheese
 cd saycheese
 bash saycheese.sh
@@ -283,7 +281,7 @@ bash saycheese.sh
 ;;
 
 
-00) echo "Coded By:HACKERSPUNK" |lolcat
+00) echo "Coded By: TECHNOCYBER" |lolcat
 exit
 ;;
 

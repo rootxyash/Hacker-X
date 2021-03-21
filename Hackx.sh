@@ -247,7 +247,9 @@ bash TermuxArch/setupTermuxArch.sh
 toilet -f standard " TECHNOCYBER " -F gay
 git clone https://github.com/noob-hackers/lazybee
 cd $HOME
+ls
 cd lazybee
+ls
 python2 lazybee.py
 
 ;;

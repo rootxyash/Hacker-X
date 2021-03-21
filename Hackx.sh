@@ -156,6 +156,7 @@ bash ip.sh
 toilet -f standard " TECHNOCYBER " -F gay
 pkg install wget
 Wget https://raw.githubusercontent.com/2Timeowl/T2-Osint/master/T2-Osint.sh
+ls
 bash T2-Osint.sh
 
 
@@ -170,7 +171,9 @@ toilet -f standard " TECHNOCYBER " -F gay
 pip install lolcat
 git clone https://github.com/noob-hackers/infect
 cd $HOME
+ls
 cd infect
+ls
 bash infect.sh
 
 

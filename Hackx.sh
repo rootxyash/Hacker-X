@@ -285,6 +285,9 @@ bash grabcam.sh
 ;;
 
 #T-LOAD
+
+
+16)clear
 toilet -f standard " TECHNOCYBER " -F gay
 git clone https://github.com/noob-hackers/T-LOAD
 cd $HOME
@@ -294,6 +297,9 @@ bash t-load.sh
 ;;
 
 #NIKTO
+
+
+17)clear
 toilet -f standard " TECHNOCYBER " -F gay
 git clone https://github.com/sullo/nikto
 cd nikto/program

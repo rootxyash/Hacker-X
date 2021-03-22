@@ -307,6 +307,391 @@ cd nikto/program
 ;;
 
 
+
+#T2-FISHER
+
+
+18) clear
+toilet -f standard " TECHNOCYBER " -F gay
+git clone
+
+;;
+
+
+#T2-FISHER
+
+
+19) clear
+toilet -f standard " TECHNOCYBER " -F gay
+git clone
+
+;;
+
+
+#T2-FISHER
+
+
+20) clear
+toilet -f standard " TECHNOCYBER " -F gay
+git clone
+
+;;
+
+
+#T2-FISHER
+
+
+21) clear
+toilet -f standard " TECHNOCYBER " -F gay
+git clone
+
+;;
+
+
+#T2-FISHER
+
+
+22) clear
+toilet -f standard " TECHNOCYBER " -F gay
+git clone
+
+;;
+
+
+#T2-FISHER
+
+
+23) clear
+toilet -f standard " TECHNOCYBER " -F gay
+git clone
+
+;;
+
+#T-LOAD
+
+
+24)clear
+toilet -f standard " TECHNOCYBER " -F gay
+git clone 
+
+;;
+
+#T-LOAD
+
+
+25)clear
+toilet -f standard " TECHNOCYBER " -F gay
+git clone 
+
+;;
+
+#T-LOAD
+
+
+26)clear
+toilet -f standard " TECHNOCYBER " -F gay
+git clone 
+
+
+;;
+
+#T-LOAD
+
+
+27)clear
+toilet -f standard " TECHNOCYBER " -F gay
+git clone 
+
+;;
+
+#T-LOAD
+
+
+28)clear
+toilet -f standard " TECHNOCYBER " -F gay
+git clone 
+
+;;
+
+#T-LOAD
+
+
+29)clear
+toilet -f standard " TECHNOCYBER " -F gay
+git clone 
+
+;;
+
+#T-LOAD
+
+
+30)clear
+toilet -f standard " TECHNOCYBER " -F gay
+git clone 
+
+;;
+
+#T-LOAD
+
+
+31)clear
+toilet -f standard " TECHNOCYBER " -F gay
+git clone 
+
+;;
+
+#T-LOAD
+
+
+32)clear
+toilet -f standard " TECHNOCYBER " -F gay
+git clone 
+
+;;
+
+#T-LOAD
+
+
+33)clear
+toilet -f standard " TECHNOCYBER " -F gay
+git clone 
+
+;;
+
+#T-LOAD
+
+
+34)clear
+toilet -f standard " TECHNOCYBER " -F gay
+git clone 
+
+;;
+
+#T-LOAD
+
+
+35)clear
+toilet -f standard " TECHNOCYBER " -F gay
+git clone 
+
+;;
+
+#T-LOAD
+
+
+36)clear
+toilet -f standard " TECHNOCYBER " -F gay
+git clone 
+
+;;
+
+#T-LOAD
+
+
+37)clear
+toilet -f standard " TECHNOCYBER " -F gay
+git clone 
+
+;;
+
+#T-LOAD
+
+
+38)clear
+toilet -f standard " TECHNOCYBER " -F gay
+git clone 
+
+;;
+
+#T-LOAD
+
+
+39)clear
+toilet -f standard " TECHNOCYBER " -F gay
+git clone 
+
+;;
+
+#T-LOAD
+
+
+16)clear
+toilet -f standard " TECHNOCYBER " -F gay
+git clone 
+
+;;
+
+#T-LOAD
+
+
+16)clear
+toilet -f standard " TECHNOCYBER " -F gay
+git clone 
+
+;;
+
+#T-LOAD
+
+
+16)clear
+toilet -f standard " TECHNOCYBER " -F gay
+git clone 
+
+;;
+
+#T-LOAD
+
+
+16)clear
+toilet -f standard " TECHNOCYBER " -F gay
+git clone 
+
+;;
+
+#T-LOAD
+
+
+16)clear
+toilet -f standard " TECHNOCYBER " -F gay
+git clone 
+
+;;
+
+#T-LOAD
+
+
+16)clear
+toilet -f standard " TECHNOCYBER " -F gay
+git clone 
+
+;;
+
+#T-LOAD
+
+
+16)clear
+toilet -f standard " TECHNOCYBER " -F gay
+git clone 
+
+;;
+
+#T-LOAD
+
+
+16)clear
+toilet -f standard " TECHNOCYBER " -F gay
+git clone 
+
+;;
+
+#T-LOAD
+
+
+16)clear
+toilet -f standard " TECHNOCYBER " -F gay
+git clone 
+
+;;
+
+#T-LOAD
+
+
+16)clear
+toilet -f standard " TECHNOCYBER " -F gay
+git clone 
+
+;;
+
+#T-LOAD
+
+
+16)clear
+toilet -f standard " TECHNOCYBER " -F gay
+git clone 
+
+;;
+
+#T-LOAD
+
+
+16)clear
+toilet -f standard " TECHNOCYBER " -F gay
+git clone 
+
+;;
+
+#T-LOAD
+
+
+16)clear
+toilet -f standard " TECHNOCYBER " -F gay
+git clone 
+
+;;
+
+#T-LOAD
+
+
+16)clear
+toilet -f standard " TECHNOCYBER " -F gay
+git clone 
+
+;;
+
+#T-LOAD
+
+
+16)clear
+toilet -f standard " TECHNOCYBER " -F gay
+git clone 
+
+;;
+
+#T-LOAD
+
+
+16)clear
+toilet -f standard " TECHNOCYBER " -F gay
+git clone 
+
+;;
+
+#T-LOAD
+
+
+16)clear
+toilet -f standard " TECHNOCYBER " -F gay
+git clone 
+
+;;
+
+#T-LOAD
+
+
+16)clear
+toilet -f standard " TECHNOCYBER " -F gay
+git clone 
+
+;;
+
+#T-LOAD
+
+
+16)clear
+toilet -f standard " TECHNOCYBER " -F gay
+git clone 
+
+;;
+
+#T-LOAD
+
+
+16)clear
+toilet -f standard " TECHNOCYBER " -F gay
+git clone 
+
+
+
 00) echo "Coded By: TECHNOCYBER" |lolcat
 exit
 ;;

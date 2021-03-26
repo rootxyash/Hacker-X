@@ -40,7 +40,6 @@ user_interrupt(){
         exit 1
 }
 
-stop() {
 
 
 lagi=01

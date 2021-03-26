@@ -15,10 +15,15 @@ echo "Loading..." |lolcat
 sleep 2
 clear
 
-toilet -f future "2TIMEOWL" |lolcat
+printf "\e[0m\n"
+printf "\e[0m\n  _  _   __    ___  __ _  ____  ____      _  _ 
+printf "\e[0m\n / )( \ / _\  / __)(  / )(  __)(  _ \ ___( \/ )
+printf "\e[0m\n ) __ (/    \( (__  )  (  ) _)  )   /(___))  ( 
+printf "\e[0m\n \_)(_/\_/\_/ \___)(__\_)(____)(__\_)    (_/\_)
+printf "\e[0m\n"
 echo "-------------------------------------------------------" |lolcat
-echo   "Created  : IRI70 - 2TIMEOWL - $white" |lolcat
-echo   "Contact  : Instagram.com/2Timeowl.com $white" |lolcat
+echo   "Created  : TECHNO - CYBER - $white" |lolcat
+echo   "Contact  : Instagram.com/Technocyber.sh.com $white" |lolcat
 echo "-------------------------------------------------------" |lolcat
 ###################################################
 # CTRL + C

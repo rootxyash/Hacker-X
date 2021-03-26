@@ -26,7 +26,7 @@ echo   "Created BY  : TECHNO - CYBER - $white" |lolcat
 echo   "Contact  : Instagram.com/Technocyber.sh.com $white" |lolcat
 echo "-------------------------------------------------------" |lolcat
 ###################################################
-# CTRL + C
+# 
 ###################################################
 user_interrupt(){
         printf "\e[0m\n"
@@ -77,7 +77,7 @@ printf " \e[1;31m[\e[0m\e[1;77m28\e[0m\e[1;31m]\e[0m\e[0m\e[96m dedsploit       
 printf " \e[1;31m[\e[0m\e[1;77m29\e[0m\e[1;31m]\e[0m\e[0m\e[96m WPscan            \e[0m\e[1;31m[\e[0m\e[1;77m59\e[0m\e[1;31m]\e[0m\e[0m\e[96m Reddit                \e[1;31m[\e[0m\e[1;77m89\e[0m\e[1;31m]\e[0m\e[0m\e[96m Tool-X\e[0m\n"         
 printf " \e[1;31m[\e[0m\e[1;77m30\e[0m\e[1;31m]\e[0m\e[0m\e[96m CyberScan         \e[0m\e[1;31m[\e[0m\e[1;77m60\e[0m\e[1;31m]\e[0m\e[0m\e[96m Adobe                 \e[1;31m[\e[0m\e[1;77m90\e[0m\e[1;31m]\e[0m\e[0m\e[96m Tool-X\e[0m\n"       
 printf "\e[0m\n"
-echo  "╭─2TIMEOWL" |lolcat
+echo  "╭─TECHNOCYBER" |lolcat
 read -p "╰──►" pil;
 
 

@@ -308,22 +308,29 @@ cd nikto/program
 
 
 
-#T2-FISHER
+#SEEKER
 
 
 18) clear
 toilet -f standard " TECHNOCYBER " -F gay
-git clone
+git clone https://github.com/thewhiteh4t/seeker.git
+cd seeker/
+pkg update
+pkg install python php
+pip3 install requests
+
 
 ;;
 
 
-#T2-FISHER
+#HUNNER
 
 
 19) clear
 toilet -f standard " TECHNOCYBER " -F gay
-git clone
+git clone https://GitHub.com/b3-v3r/hunner
+cd hunner
+
 
 ;;
 

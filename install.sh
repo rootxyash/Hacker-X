@@ -39,7 +39,7 @@ printf "\e[0m\e[93m    | |   | (      | |      | (   ) || | \   || |   | || |   
 printf "\e[0m\e[93m    | |   | (____/\| (____/\| )   ( || )  \  || (___) || (____/\   | |   | )___) )| (____/\| ) \ \__\e[0m\n"
 printf "\e[0m\e[93m    )_(   (_______/(_______/|/     \||/    )_)(_______)(_______/   \_/   |/ \___/ (_______/|/   \__/\e[0m\n"
 printf "\e[0m\n"                                                                                               
-printf " \e[0m\e[1;41m       ======[ INSTALLING DEPENDENCIES ]======\e[0m\n"
+printf " \e[0m\e                       ======[ INSTALLING DEPENDENCIES ]======\e[0m\n"
 printf "\e[0m\n"
 
 trap ctrl_c INT

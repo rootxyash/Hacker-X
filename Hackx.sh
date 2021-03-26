@@ -28,9 +28,6 @@ echo "-------------------------------------------------------" |lolcat
 ###################################################
 # CTRL + C
 ###################################################
-trap ctrl_c INT
-ctrl_c() {
-clear
 user_interrupt(){
         printf "\e[0m\n"
         printf "\e[0m\e[1;36m\t CTRL + C Pressed !!\n"
@@ -42,9 +39,9 @@ user_interrupt(){
         printf "\e[0m\n"
         exit 1
 }
-sleep 1
-exit
-}
+
+stop() {
+
 
 lagi=01
 while [ $lagi -lt 15 ];

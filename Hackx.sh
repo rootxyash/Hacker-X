@@ -335,7 +335,7 @@ cd hunner
 ;;
 
 
-#T2-FISHER
+#KEY_MUX
 
 
 20) clear
@@ -345,22 +345,24 @@ git clone
 ;;
 
 
-#T2-FISHER
+#FSOCIETY_TOOLKIT
 
 
 21) clear
 toilet -f standard " TECHNOCYBER " -F gay
 git clone
 
+
 ;;
 
 
-#T2-FISHER
+#EASY_HACK
 
 
 22) clear
 toilet -f standard " TECHNOCYBER " -F gay
 git clone
+
 
 ;;
 
@@ -372,27 +374,32 @@ git clone
 toilet -f standard " TECHNOCYBER " -F gay
 git clone
 
+
 ;;
 
-#T-LOAD
+
+#ANON-SMS
 
 
 24)clear
 toilet -f standard " TECHNOCYBER " -F gay
 git clone 
 
+
 ;;
 
-#T-LOAD
+
+#DRAGONBRUTE_FB
 
 
 25)clear
 toilet -f standard " TECHNOCYBER " -F gay
 git clone 
 
+
 ;;
 
-#T-LOAD
+#WEBSPLOIT
 
 
 26)clear
@@ -402,43 +409,47 @@ git clone
 
 ;;
 
-#T-LOAD
+#GOLDENEYE_DDOS
 
 
 27)clear
 toilet -f standard " TECHNOCYBER " -F gay
 git clone 
 
+
 ;;
 
-#T-LOAD
+#WIFITE
 
 
 28)clear
 toilet -f standard " TECHNOCYBER " -F gay
 git clone 
 
+
 ;;
 
-#T-LOAD
+#DEDSPLOIT
 
 
 29)clear
 toilet -f standard " TECHNOCYBER " -F gay
 git clone 
 
+
 ;;
 
-#T-LOAD
+#WPSCAN
 
 
 30)clear
 toilet -f standard " TECHNOCYBER " -F gay
 git clone 
 
+
 ;;
 
-#T-LOAD
+#CYBERSCAN
 
 
 31)clear
@@ -447,7 +458,7 @@ git clone
 
 ;;
 
-#T-LOAD
+#FB-BRUTER
 
 
 32)clear
@@ -456,7 +467,7 @@ git clone
 
 ;;
 
-#T-LOAD
+#IPDRONE
 
 
 33)clear
@@ -465,7 +476,7 @@ git clone
 
 ;;
 
-#T-LOAD
+#INSTAGRAM_BRUTEFORCE
 
 
 34)clear
@@ -474,7 +485,7 @@ git clone
 
 ;;
 
-#T-LOAD
+#RED_HAWK
 
 
 35)clear
@@ -483,7 +494,7 @@ git clone
 
 ;;
 
-#T-LOAD
+#TECH_COCHI
 
 
 36)clear
@@ -492,7 +503,7 @@ git clone
 
 ;;
 
-#T-LOAD
+#Z-PHISHER
 
 
 37)clear
@@ -501,7 +512,7 @@ git clone
 
 ;;
 
-#T-LOAD
+#FACEBOOK_BRUTEFORCE
 
 
 38)clear
@@ -510,7 +521,7 @@ git clone
 
 ;;
 
-#T-LOAD
+#WEEMAN
 
 
 39)clear
@@ -519,7 +530,7 @@ git clone
 
 ;;
 
-#T-LOAD
+#TERMUX_BASIC_PACKAGE
 
 
 16)clear
@@ -528,7 +539,7 @@ git clone
 
 ;;
 
-#T-LOAD
+#SHARK
 
 
 16)clear
@@ -537,7 +548,7 @@ git clone
 
 ;;
 
-#T-LOAD
+#EMAIL_BOMBER
 
 
 16)clear
@@ -546,7 +557,7 @@ git clone
 
 ;;
 
-#T-LOAD
+#THE_INSPECTOR
 
 
 16)clear
@@ -555,7 +566,7 @@ git clone
 
 ;;
 
-#T-LOAD
+#LITTLE_BROTHER
 
 
 16)clear
@@ -564,7 +575,7 @@ git clone
 
 ;;
 
-#T-LOAD
+#CRED_MAP
 
 
 16)clear
@@ -573,7 +584,7 @@ git clone
 
 ;;
 
-#T-LOAD
+#UBUNTU
 
 
 16)clear
@@ -582,7 +593,7 @@ git clone
 
 ;;
 
-#T-LOAD
+#TLOCK
 
 
 16)clear
@@ -591,7 +602,7 @@ git clone
 
 ;;
 
-#T-LOAD
+#ODI.G
 
 
 16)clear
@@ -600,7 +611,7 @@ git clone
 
 ;;
 
-#T-LOAD
+#GEMAIL_HACK
 
 
 16)clear
@@ -609,7 +620,7 @@ git clone
 
 ;;
 
-#T-LOAD
+#HIDDEN_EYE
 
 
 16)clear
@@ -618,7 +629,7 @@ git clone
 
 ;;
 
-#T-LOAD
+#BLACK_EYE
 
 
 16)clear
@@ -627,7 +638,7 @@ git clone
 
 ;;
 
-#T-LOAD
+#SOCIALFISH
 
 
 16)clear
@@ -636,7 +647,7 @@ git clone
 
 ;;
 
-#T-LOAD
+#HIDDEN_EYE
 
 
 16)clear
@@ -645,7 +656,7 @@ git clone
 
 ;;
 
-#T-LOAD
+#MALICIOUS
 
 
 16)clear
@@ -654,7 +665,7 @@ git clone
 
 ;;
 
-#T-LOAD
+#BLACKBOX
 
 
 16)clear
@@ -663,7 +674,7 @@ git clone
 
 ;;
 
-#T-LOAD
+#BASH_FINGERPRINT
 
 
 16)clear
@@ -671,32 +682,6 @@ toilet -f standard " TECHNOCYBER " -F gay
 git clone 
 
 ;;
-
-#T-LOAD
-
-
-16)clear
-toilet -f standard " TECHNOCYBER " -F gay
-git clone 
-
-;;
-
-#T-LOAD
-
-
-16)clear
-toilet -f standard " TECHNOCYBER " -F gay
-git clone 
-
-;;
-
-#T-LOAD
-
-
-16)clear
-toilet -f standard " TECHNOCYBER " -F gay
-git clone 
-
 
 
 00) echo "Coded By: TECHNOCYBER" |lolcat

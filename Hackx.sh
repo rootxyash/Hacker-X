@@ -31,16 +31,17 @@ echo "-------------------------------------------------------" |lolcat
 trap ctrl_c INT
 ctrl_c() {
 clear
-echo  "Detected, Trying To Exit 🚪 ... "|lolcat
-echo ""
-echo         "⚠️NOT FOR ILLEGEL USE⚠️"|lolcat
-sleep 1
-echo ""
-echo              "2TIMEOWL" |lolcat
-echo ""
-echo            "BYE BYE 👋👋..." |lolcat
-echo ""
-echo              "COME BACK 🔜" |lolcat
+user_interrupt(){
+        printf "\e[0m\n"
+        printf "\e[0m\e[1;36m\t CTRL + C Pressed !!\n"
+        sleep 2
+        printf "\e[0m\n"
+        printf " \e[0m\e[1;42m Thanks for Using This Tool !!\e[0m  \e[1;44m Visit https://github.com/Technocyber for more\e[0m\n"
+        printf "\e[0m\n"
+        printf " \e[1;37m                             [ YOURS IR170 ]\e[0m\n"
+        printf "\e[0m\n"
+        exit 1
+}
 sleep 1
 exit
 }

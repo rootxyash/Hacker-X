@@ -39,7 +39,7 @@ printf "\e[0m\e[93m    | |   | (      | |      | (   ) || | \   || |   | || |   
 printf "\e[0m\e[93m    | |   | (____/\| (____/\| )   ( || )  \  || (___) || (____/\   | |   | )___) )| (____/\| ) \ \__\e[0m\n"
 printf "\e[0m\e[93m    )_(   (_______/(_______/|/     \||/    )_)(_______)(_______/   \_/   |/ \___/ (_______/|/   \__/\e[0m\n"
 printf "\e[0m\n"                                                                                               
-printf " \e[0m\e                       ======[ INSTALLING DEPENDENCIES ]======\e[0m\n"
+printf " \e[0m\e                                 ======[ INSTALLING DEPENDENCIES ]======\e[0m\n"
 printf "\e[0m\n"
 
 trap ctrl_c INT
@@ -49,7 +49,7 @@ echo  "Detected, Trying To Exit  ... "
 echo ""
 sleep 1
 echo ""
-echo "2TIMEOWL" |lolcat
+echo "TECHNOCYBER" |lolcat
 sleep 1
 exit
 }
@@ -73,7 +73,7 @@ pip2 install --upgrade pip
 clear
 
 echo ""
-echo "Coded By IRI70(2TIMEOWL)" |lolcat
+echo "Coded By TECHNOCYBER" |lolcat
 echo "________________________" |lolcat
 sleep 10
 echo ""

@@ -8,7 +8,7 @@ apt install toilet -y
 echo ""
 echo ""
 echo " VISIT MY WEBSITE 🔔 " |lolcat
-xdg-open https://linktr.ee/2Timeowl
+xdg-open https://Technocyber.tk
 echo ""
 
 echo -e "\e[101m Press Enter \e[0m"

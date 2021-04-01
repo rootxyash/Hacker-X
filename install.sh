@@ -7,7 +7,7 @@ gem install lolcat
 apt install toilet -y
 echo ""
 echo ""
-echo " VISIT MY WEBSITE 🔔 " |lolcat
+echo "                               VISIT MY WEBSITE 🔔 " |lolcat
 xdg-open https://Technocyber.tk
 echo ""
 

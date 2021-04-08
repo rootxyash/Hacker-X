@@ -70,9 +70,9 @@ printf " \e[1;31m[\e[0m\e[1;77m21\e[0m\e[1;31m]\e[0m\e[0m\e[96m Fsociety-Toolkit
 printf " \e[1;31m[\e[0m\e[1;77m22\e[0m\e[1;31m]\e[0m\e[0m\e[96m EasY_Hack         \e[0m\e[1;31m[\e[0m\e[1;77m52\e[0m\e[1;31m]\e[0m\e[0m\e[96m Bash Fingerprinting   \e[1;31m[\e[0m\e[1;77m82\e[0m\e[1;31m]\e[0m\e[0m\e[96m Tool-X\e[0m\n"
 printf " \e[1;31m[\e[0m\e[1;77m23\e[0m\e[1;31m]\e[0m\e[0m\e[96m Anon-Sms          \e[0m\e[1;31m[\e[0m\e[1;77m53\e[0m\e[1;31m]\e[0m\e[0m\e[96m Hidden_Eye            \e[1;31m[\e[0m\e[1;77m83\e[0m\e[1;31m]\e[0m\e[0m\e[96m Tool-X\e[0m\n"
 printf " \e[1;31m[\e[0m\e[1;77m24\e[0m\e[1;31m]\e[0m\e[0m\e[96m Dragonbrute_fb    \e[0m\e[1;31m[\e[0m\e[1;77m54\e[0m\e[1;31m]\e[0m\e[0m\e[96m Social_Fish           \e[1;31m[\e[0m\e[1;77m84\e[0m\e[1;31m]\e[0m\e[0m\e[96m Tool-X\e[0m\n"    
-printf " \e[1;31m[\e[0m\e[1;77m25\e[0m\e[1;31m]\e[0m\e[0m\e[96m websploit         \e[0m\e[1;31m[\e[0m\e[1;77m55\e[0m\e[1;31m]\e[0m\e[0m\e[96m                       \e[1;31m[\e[0m\e[1;77m85\e[0m\e[1;31m]\e[0m\e[0m\e[96m Tool-X\e[0m\n"    
-printf " \e[1;31m[\e[0m\e[1;77m26\e[0m\e[1;31m]\e[0m\e[0m\e[96m GoldenEyeDDos     \e[0m\e[1;31m[\e[0m\e[1;77m56\e[0m\e[1;31m]\e[0m\e[0m\e[96m Dropbox               \e[1;31m[\e[0m\e[1;77m86\e[0m\e[1;31m]\e[0m\e[0m\e[96m Tool-X\e[0m\n"
-printf " \e[1;31m[\e[0m\e[1;77m27\e[0m\e[1;31m]\e[0m\e[0m\e[96m wifite            \e[0m\e[1;31m[\e[0m\e[1;77m57\e[0m\e[1;31m]\e[0m\e[0m\e[96m Protonmail            \e[1;31m[\e[0m\e[1;77m87\e[0m\e[1;31m]\e[0m\e[0m\e[96m Tool-X\e[0m\n"          
+printf " \e[1;31m[\e[0m\e[1;77m25\e[0m\e[1;31m]\e[0m\e[0m\e[96m websploit         \e[0m\e[1;31m[\e[0m\e[1;77m55\e[0m\e[1;31m]\e[0m\e[0m\e[96m Dos                   \e[1;31m[\e[0m\e[1;77m85\e[0m\e[1;31m]\e[0m\e[0m\e[96m Tool-X\e[0m\n"    
+printf " \e[1;31m[\e[0m\e[1;77m26\e[0m\e[1;31m]\e[0m\e[0m\e[96m GoldenEyeDDos     \e[0m\e[1;31m[\e[0m\e[1;77m56\e[0m\e[1;31m]\e[0m\e[0m\e[96m                       \e[1;31m[\e[0m\e[1;77m86\e[0m\e[1;31m]\e[0m\e[0m\e[96m Tool-X\e[0m\n"
+printf " \e[1;31m[\e[0m\e[1;77m27\e[0m\e[1;31m]\e[0m\e[0m\e[96m wifite            \e[0m\e[1;31m[\e[0m\e[1;77m57\e[0m\e[1;31m]\e[0m\e[0m\e[96m Haxrat                \e[1;31m[\e[0m\e[1;77m87\e[0m\e[1;31m]\e[0m\e[0m\e[96m Tool-X\e[0m\n"          
 printf " \e[1;31m[\e[0m\e[1;77m28\e[0m\e[1;31m]\e[0m\e[0m\e[96m dedsploit         \e[0m\e[1;31m[\e[0m\e[1;77m58\e[0m\e[1;31m]\e[0m\e[0m\e[96m Spotify               \e[1;31m[\e[0m\e[1;77m88\e[0m\e[1;31m]\e[0m\e[0m\e[96m Tool-X\e[0m\n"                               
 printf " \e[1;31m[\e[0m\e[1;77m29\e[0m\e[1;31m]\e[0m\e[0m\e[96m WPscan            \e[0m\e[1;31m[\e[0m\e[1;77m59\e[0m\e[1;31m]\e[0m\e[0m\e[96m Reddit                \e[1;31m[\e[0m\e[1;77m89\e[0m\e[1;31m]\e[0m\e[0m\e[96m Tool-X\e[0m\n"         
 printf " \e[1;31m[\e[0m\e[1;77m30\e[0m\e[1;31m]\e[0m\e[0m\e[96m CyberScan         \e[0m\e[1;31m[\e[0m\e[1;77m60\e[0m\e[1;31m]\e[0m\e[0m\e[96m Adobe                 \e[1;31m[\e[0m\e[1;77m90\e[0m\e[1;31m]\e[0m\e[0m\e[96m Tool-X\e[0m\n"       
@@ -332,7 +332,7 @@ pip3 install requests
 toilet -f standard " TECHNOCYBER " -F gay
 git clone https://GitHub.com/b3-v3r/hunner
 cd hunner
-
+python2 hunner.py
 
 ;;
 
@@ -342,7 +342,9 @@ cd hunner
 
 20) clear
 toilet -f standard " TECHNOCYBER " -F gay
-git clone
+git clone https://github.com/Punker-Bhai/key-mux
+cd key-mux
+bash mux.sh
 
 ;;
 
@@ -352,8 +354,9 @@ git clone
 
 21) clear
 toilet -f standard " TECHNOCYBER " -F gay
-git clone
-
+https://github.com/Manisso/fsociety.git
+cd fsociety
+chmod +x install.sh
 
 ;;
 
@@ -363,18 +366,11 @@ git clone
 
 22) clear
 toilet -f standard " TECHNOCYBER " -F gay
-git clone
+git clone https://github.com/sabri-zaki/EasY_HaCk
+cd EasY_HaCk/
+chmod +x install.sh
+Type EasY-HaCk
 
-
-;;
-
-
-#T2-FISHER
-
-
-23) clear
-toilet -f standard " TECHNOCYBER " -F gay
-git clone
 
 
 ;;
@@ -383,61 +379,85 @@ git clone
 #ANON-SMS
 
 
+23) clear
+toilet -f standard " TECHNOCYBER " -F gay
+git clone https://github.com/noob-hackers/spamx
+cd $HOME
+ls
+cd spamx
+ls
+bash setup.sh
+bash spamx.sh
+
+;;
+
+
+#BRUTEFORCE_FB
+
+
 24)clear
 toilet -f standard " TECHNOCYBER " -F gay
-git clone 
+git clone https://github.com/Oseid/FaceBoom.git
+cd FaceBoom/
+pip install requests
+pip install mechanize
 
-
-;;
-
-
-#DRAGONBRUTE_FB
-
-
-25)clear
-toilet -f standard " TECHNOCYBER " -F gay
-git clone 
 
 
 ;;
+
 
 #WEBSPLOIT
 
 
-26)clear
+25)clear
 toilet -f standard " TECHNOCYBER " -F gay
-git clone 
-
+git clone https://github.com/websploit/websploit.git
+cd websploit
+python setup.py install
 
 ;;
 
 #GOLDENEYE_DDOS
 
 
-27)clear
+26)clear
 toilet -f standard " TECHNOCYBER " -F gay
-git clone 
-
+https://github.com/jseidl/GoldenEye.git
+cd GoldenEye
+python3 goldeneye.py
 
 ;;
 
 #WIFITE
 
 
-28)clear
+27)clear
 toilet -f standard " TECHNOCYBER " -F gay
-git clone 
+git clone https://github.com/derv82/wifite2.git
+cd wifite2
+sudo ./Wifite.py
 
 
 ;;
 
-#DEDSPLOIT
+#
+DEDSPLOIT
+
+28)clear
+toilet -f standard " TECHNOCYBER " -F gay
+git clone https://github.com/R3K1NG/dedsploit
+cd dedsploit
+./installer
+
+;;
+
+#WPSCAN
 
 
 29)clear
 toilet -f standard " TECHNOCYBER " -F gay
-git clone 
-
+gem install wpscan
 
 ;;
 
